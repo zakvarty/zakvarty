@@ -1,6 +1,6 @@
 ### Hello, I'm Zak 👋
 
-I'm a statistician, data scientist and educator based in the UK. I enjoy
+I'm a statistician, data scientist and educator based in the UK.
 
 Here you'll find:
 
