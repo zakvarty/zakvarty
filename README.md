@@ -11,5 +11,6 @@ I'm a statistician, data scientist and educator based in the UK. I studied for m
 If you want to find out more about me and my work, you could check out my personal [WEBSITE](https://www.zakvarty.com), [YouTube channel](https://www.youtube.com/@zakvarty) or [LinkedIn](https://www.linkedin.com/in/zak-varty-b60a19b5/) page.
 
 
-
+----
+last updated: 2024-09-31
 
