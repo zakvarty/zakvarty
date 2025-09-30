@@ -1,4 +1,4 @@
-### Hello, I'm Zak 👋
+### Hello, I'm ZAK 👋
 
 I'm a statistician, data scientist and educator based in the UK. Here you'll find:
 
