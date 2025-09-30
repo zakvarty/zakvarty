@@ -1,6 +1,6 @@
 ### Hello, I'm Zak 👋
 
-I'm a statistician, data scientist and educator based in the UK. Here you'll find:
+I'm a statistician, data scientist and educator based in the UK. I studied for my PhD at Lancaster Univeristy. Here you'll find:
 
 - 💬 Some of my more recent talks and conference presentations
 - 🏫 Teaching materials for my courses
