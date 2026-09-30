@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello, I'm Zak 👋
 
-<!--
-**zakvarty/zakvarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a statistician, data scientist and educator based in the UK. I studied for my PhD at Lancaster Univeristy. Here you'll find:
 
-Here are some ideas to get you started:
+- 💬 Some of my more recent talks and conference presentations
+- 🏫 Teaching materials for my courses
+- 📄 Templates for academic projects
+- 🌐 The source code for my website
+- 📦 An assortment of personal R packages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to find out more about me and my work, you could check out my personal [WEBSITE](https://www.zakvarty.com), [YouTube channel](https://www.youtube.com/@zakvarty) or [LinkedIn](https://www.linkedin.com/in/zak-varty-b60a19b5/) page.
+
+
+----
+last updated: 2024-09-31
+
